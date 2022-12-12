@@ -144,7 +144,7 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; Your Website 2021</span>
+                        <span>&copy;2022 Employee Management All rights reserved.</span>
                     </div>
                 </div>
             </footer>

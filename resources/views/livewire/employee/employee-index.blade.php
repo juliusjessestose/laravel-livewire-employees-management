@@ -19,7 +19,7 @@
                             <div class="form-row align-items-center">
                                 <div class="col">
                                     <input type="search" wire:model="search" class="form-control mb-2"
-                                        id="inlineFormInput" placeholder="Jane Doe">
+                                        id="inlineFormInput" placeholder="Employee">
                                 </div>
                                 <div class="col">
                                     <select wire:model="selectedDepartmentId" class="form-control mb-2">
